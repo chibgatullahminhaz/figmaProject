@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Inter' !important;
+}
+#nav-link{
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: -0.1px;
+color:  #0D0A19;
+padding: 25px;
+
+}
+#user img{
+    padding: 8px;
+    border-radius: 10px;
+    background: #F5F6F7;
+    margin-top: 18px;
+    margin-right: 2px;
+}
+#singUp{
+ font-family: Inter;
+font-size: 14px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: -0.10000000149011612px;
+text-align: left;
+color: #9A9EA7;
+margin-top: 25px;
+margin-left: -2px;
+}
+
+#section1  {
+ background-repeat: no-repeat;
+    background-size:cover;
+    background-image: url(img/bg.png);
+    min-height: 700px;
+}
